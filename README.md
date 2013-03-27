@@ -1,14 +1,3 @@
-Matem-ticas
-===========
+Matemáticas: El lugar donde puedes encontrar información de manera rápida y sencilla.
+=============================================================
 
-Fácil y rápida información sobre matemáticas
-============================================
-
-Los temas que se trataran en esta página son:
-
-Matemáticas I
-Matemátics II
-Matemáticas III
-Física I
-Física II
-Trigonometría 
